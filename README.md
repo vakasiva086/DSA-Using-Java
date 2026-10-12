@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -20,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
