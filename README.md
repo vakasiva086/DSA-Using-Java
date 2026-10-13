@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -23,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vakasiva086/DSA-Using-Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
